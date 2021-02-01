@@ -11,13 +11,14 @@
     
 </head>
 <body>
-    <div>
+    <div> 
         <div class="row">
             <div class="col-md-4 " >
             </div>
             <div class="col-md-4 mt-5" >
                 <form action="traitement.php" method="post">
-                <h6 class= "text-center font-weight-bold text-white "  >INSCRIVEZ-VOUS </h6>
+                <h6 class="text-center text-white font-weight-bold">SIMPLON.CO </h6>
+                <h6 class= "text-center font-weight-bold text-white mt-4"  >INSCRIVEZ-VOUS </h6>
                     <div class="form-group">
                       <label for="exampleInputEmail1" class="text-white font-weight-bold ">email </label>
                       <input type="email" class="form-control" name="email" id="exampleInputEmail1" placeholder="email"  aria-describedby="emailHelp">

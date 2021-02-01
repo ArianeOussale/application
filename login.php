@@ -13,7 +13,7 @@
             <div class="col-md-4 " >
             </div>
             <div class="col-md-4 mt-5" >
-                <form action="traitement.php" method="post">
+                <form method ="post" action="connect.php">
                 <h6 class= "text-center font-weight-bold text-white "  >CONNECTEZ-VOUS </h6>
                     <div class="form-group">
                       <label for="exampleInputEmail1" class="text-uppercase font-weight-bold text-white ">email </label>
